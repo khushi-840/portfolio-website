@@ -4,9 +4,9 @@
 This is my personal portfolio website created using HTML and CSS to showcase my skills, projects, and contact information.
 
 ## 🚀 Features
+- Multi-page website (Home, About, Skills, project)
 - Responsive design
 - Clean UI
-- Sections: About, Skills, Projects, Contact
 
 ## 🛠️ Technologies Used
 - HTML
